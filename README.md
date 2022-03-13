@@ -1,0 +1,1 @@
+# blogo-daily-consumer
